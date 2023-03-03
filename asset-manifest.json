@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carrotstudy/static/css/main.6e98ef30.css",
+    "main.js": "/carrotstudy/static/js/main.f5b3c8a9.js",
+    "static/js/787.59ecb6cb.chunk.js": "/carrotstudy/static/js/787.59ecb6cb.chunk.js",
+    "index.html": "/carrotstudy/index.html",
+    "main.6e98ef30.css.map": "/carrotstudy/static/css/main.6e98ef30.css.map",
+    "main.f5b3c8a9.js.map": "/carrotstudy/static/js/main.f5b3c8a9.js.map",
+    "787.59ecb6cb.chunk.js.map": "/carrotstudy/static/js/787.59ecb6cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e98ef30.css",
+    "static/js/main.f5b3c8a9.js"
+  ]
+}
